@@ -1,5 +1,4 @@
 Flask
 numpy
 pandas
-pickle5  # Required for compatibility with some environments
 gunicorn  # Needed for deployment on platforms like Render or Railway
