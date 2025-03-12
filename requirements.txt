@@ -2,3 +2,4 @@ Flask
 numpy
 pandas
 gunicorn  # Needed for deployment on platforms like Render or Railway
+scikit-learn
